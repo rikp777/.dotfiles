@@ -1,0 +1,10 @@
+[user]
+  name = Rik Peeters
+  email = 33726176+rikp777@users.noreply.github.com
+[core]
+  excludesfile = ~/.gitignore_global
+  editor = nvim
+[pull]
+  ff = only
+[init]
+  defaultBranch = main
